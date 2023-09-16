@@ -11,3 +11,4 @@ Hritik, Zaid and I teamed up for this assignment. Belonging to the same country,
 Hritik enjoys playing games and has a passion for exploring new cuisines. He chose this course because of its smaller class sizes, which offer a more personalized learning experience. The inclusion of a co-op program was the deciding factor, making it an ideal choice for him.
 
 ### Zaid Shaik
+In addition to academics, Zaid enjoys playing volleyball, badminton, and cricket. He also likes binge-watching TV shows and movies. Moreover, Zaid has a keen interest in the latest technological advancements and cellphones.
