@@ -79,7 +79,7 @@ namespace ProgAssign1
             Console.WriteLine("-----------Program Stopped----------");
 
             long elapsedMilliseconds = stopwatch.ElapsedMilliseconds;
-            double elapsedSeconds = (double)elapsedMilliseconds / 10000;
+            double elapsedSeconds = (double)elapsedMilliseconds / 1000;
             Console.WriteLine($"Execution time: {elapsedSeconds} seconds");
             Console.WriteLine($"Total valid rows: {validRows}");
             Console.WriteLine($"Total skipped rows: {skippedRows}");
