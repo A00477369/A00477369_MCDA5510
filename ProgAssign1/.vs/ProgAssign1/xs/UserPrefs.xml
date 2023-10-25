@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8C35E5EB-A6E7-4FDE-AF63-DE5F69BF0DBA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ProgAssign1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgAssign1/DirWalker.cs">
+    <Files>
+      <File FileName="ProgAssign1/DirWalker.cs" Line="10" Column="117" />
+      <File FileName="ProgAssign1/CSVManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgAssign1" expanded="True">
+            <Node name="ProgAssign1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+</Properties>
