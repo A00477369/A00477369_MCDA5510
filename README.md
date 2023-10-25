@@ -36,5 +36,5 @@ This C# program is designed to traverse a directory structure containing CSV fil
 ### Notes
 - Change the _rootDir_ variable in _DirWalker.cs_ to your local directory.
 - This program was coded in a macbook. In order to ensure compatibility with Windows, if you intend to run this program on a Windows machine, please make the following modification:
-- Replace the forward slashes '/' with backslashes '\' in the _regexPattern_ variable located in the _CSVManager.cs_ file."
+- Replace the forward slashes '/' with backslashes '\\' in the _regexPattern_ variable located in the _CSVManager.cs_ file."
 
